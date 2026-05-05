@@ -17,7 +17,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- UX Designer / User Researcher: advocates for user needs, validates designs, and contributes to acceptance criteria.
+- QA Lead / Quality Owner: defines quality standards, coordinates testing, and holds the release go/no-go gate.
+- DevOps Engineer / Release Manager: owns CI/CD pipelines, deployment runbooks, and incident response.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
@@ -44,3 +46,4 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- For role ownership and handoffs, see [Roles and Personas](octoacme-roles-and-personas.md) and [Role Interactions & RACI](octoacme-role-interactions-and-raci.md).
